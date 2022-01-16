@@ -31,3 +31,48 @@ Underline 2
 - <a href="http://www.google.com">Esto es un link HTML<a>
 - [Esto es un link en Markdown](http://www.google.com)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+![Logo Github](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png)
+
+# Code Snippets
+Sintaxis highlighting
+```JASON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+# Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Maxi | Burgos | asfdasfd |
+| Tomas | asfasf | asffsffas |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior:
+> Esto es otra cita.
+
+# Líneas divisoras
+Esto es un texto que será dividido por guiones medios.
+
+---
+Esto es otro texto dividido por asteriscos.
+
+***
+Esto es otro texto dividido por guiones bajos.
+
+___
+
+# Saltos de Linea
